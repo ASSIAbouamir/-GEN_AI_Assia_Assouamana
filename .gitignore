@@ -1,0 +1,31 @@
+# Environnements et dépendances
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers binaires lourds
+*.dll
+*.lib
+*.exe
+*.zip
+*.tar
+*.gz
+*.pt
+*.h5
+*.pkl
+*.mp4
+*.npy
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+
+# Autres
+.DS_Store
+Thumbs.db
